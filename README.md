@@ -1,0 +1,2 @@
+# texignore
+.gitignore for latex
